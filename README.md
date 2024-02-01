@@ -1,11 +1,12 @@
 # Asteroid-Shooter
 
 Instructions:
-	Press A to move left.
-	Press D to move right.
-	Press Spacebar to shoot.
-	Try not to let any Asteroids reach the bottom of the screen.
-	You have three lives! Survive as long as possible!
+	
+ Press A to move left.
+ Press D to move right.
+ Press Spacebar to shoot.
+ Try not to let any Asteroids reach the bottom of the screen.
+ You have three lives! Survive as long as possible!
 
 
 C/C++ -> General -> Additional Include Dir:  C:\SFML-2.5.1\include
